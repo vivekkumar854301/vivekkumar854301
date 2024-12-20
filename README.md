@@ -1,6 +1,30 @@
-# Hi there! 👋 I'm Vivek Singh
+# 👋 Hi, I'm Vivek Kumar  
+Welcome to my GitHub profile!  
+Coding is my passion.  
+Let's connect and build amazing things together! 🚀  
 
-Welcome to my GitHub profile! I'm passionate about **web development**, **problem-solving**, and **continuous learning**. I love working on projects that have a meaningful impact.
+---
+
+## 💼 Experience  
+
+### 🌟 Total Experience: **1 Year in Angular**  
+
+- **🏢 [Addverb Technologies](https://www.addverb.com)**  
+  **Position**: Intern (Frontend Developer)  
+  **Duration**: January 2024 – July 2024 (6 months)  
+  **Role**: Developed UI components using Angular, TypeScript, CSS, and integrated APIs.  
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+- **🏢 [Clarium Technologies](https://www.clarium.io)**  
+  **Position**: Software Engineer Trainee  
+  **Duration**: August 2024 – Present  
+  **Role**: Building scalable and responsive web applications using Angular and integrating REST APIs.  
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  ![REST APIs](https://img.shields.io/badge/-REST%20APIs-000000?style=flat-square&logo=postman&logoColor=white)
+
+---
 
 ## 🚀 About Me
 
