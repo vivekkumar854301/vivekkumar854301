@@ -10,7 +10,7 @@ Let's connect and build amazing things together! 🚀
 ### 🌟 Total Experience: **1 Year in Angular**  
 
 - **🏢 [Addverb Technologies](https://www.addverb.com)** 
- ![Addverb Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Addverb_Technologies_logo.svg/1280px-Addverb_Technologies_logo.svg.png)  
+ ![Addverb Logo](https://www.google.com/imgres?q=icons%20addverb&imgurl=https%3A%2F%2Findiatechnologynews.in%2Fwp-content%2Fuploads%2F2023%2F04%2FAddverb_new-logo.jpg&imgrefurl=https%3A%2F%2Findiatechnologynews.in%2Faddverb-technologies-reinforces-its-global-position-as-pioneers-in-human-robot-collaboration%2F&docid=X1t-t4YPD4OpYM&tbnid=3iXjQs-S4GwTmM&vet=12ahUKEwjbjKGGmreKAxWl4zgGHbuuH4wQM3oECBYQAA..i&w=800&h=400&hcb=2&itg=1&ved=2ahUKEwjbjKGGmreKAxWl4zgGHbuuH4wQM3oECBYQAA)  
   **Position**: Intern (Frontend Developer)  
   **Duration**: January 2024 – July 2024 (6 months)  
   **Role**: Developed UI components using Angular, TypeScript, CSS, and integrated APIs.  
