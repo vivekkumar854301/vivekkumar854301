@@ -9,14 +9,16 @@ Let's connect and build amazing things together! 🚀
 
 ### 🌟 Total Experience: **1 Year in Angular**  
 
-- **🏢 [Addverb Technologies](https://www.addverb.com)**  
+- **🏢 [Addverb Technologies](https://www.addverb.com)** 
+ ![Addverb Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Addverb_Technologies_logo.svg/1280px-Addverb_Technologies_logo.svg.png)  
   **Position**: Intern (Frontend Developer)  
   **Duration**: January 2024 – July 2024 (6 months)  
   **Role**: Developed UI components using Angular, TypeScript, CSS, and integrated APIs.  
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-- **🏢 [Clarium Technologies](https://www.clarium.io)**  
+- **🏢 [Clarium Technologies](https://clarium.tech/)**  
+  ![Clarium Logo](https://www.google.com/imgres?q=clarium%20tech%20private%20limited%20logo&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E0BAQHXfhj2fZjLiQ%2Fcompany-logo_200_200%2Fcompany-logo_200_200%2F0%2F1689965351186%2Fclarium_managed_services_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3Dimt7D_K5_8d5S2nmoYzSGpOR7owGd9gYPdcf6K3_058&imgrefurl=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fclarium-tech&docid=K4gUr9goQPam-M&tbnid=DNXGLocqOft1KM&vet=12ahUKEwi6sLjTmbeKAxX78DgGHWhHK84QM3oECBcQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwi6sLjTmbeKAxX78DgGHWhHK84QM3oECBcQAA)  
   **Position**: Software Engineer Trainee  
   **Duration**: August 2024 – Present  
   **Role**: Building scalable and responsive web applications using Angular and integrating REST APIs.  
