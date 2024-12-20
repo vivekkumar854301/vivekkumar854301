@@ -9,6 +9,17 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **proble
 - ⚡ Fun fact: I enjoy solving coding challenges and building innovative tools!
 
 ---
+# 🌟 Achievements 🌟
+
+### My GitHub Achievements 🏆
+![Cowboy Emoji Achievement](https://github.githubassets.com/images/icons/emoji/unicode/1f920.png?v8)  
+
+---
+
+## Dynamic Badge Examples 🚀
+[![GitHub followers](https://img.shields.io/github/followers/vivekkumar854301?style=social)](https://github.com/vivekkumar854301)
+[![GitHub stars](https://img.shields.io/github/stars/vivekkumar854301?style=social)](https://github.com/vivekkumar854301)
+
 
 ## 📊 GitHub Stats
 
